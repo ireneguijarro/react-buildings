@@ -1,0 +1,6 @@
+.container {
+  display: inline-grid;
+  grid-gap: 1rem;
+  width: 100%;
+  justify-items: center;
+}
